@@ -1,0 +1,1 @@
+This is my first repository as a full-stack engineer. It serves as a starting point for my journey in software development. The project aims to showcase my skills and knowledge in various technologies and frameworks.
